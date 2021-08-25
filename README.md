@@ -7,7 +7,7 @@ This program receives `wireguard encrypted udp packet` -> `decrypt it` -> `do bg
 
 The host OS can only see this app receives and sends udp packets, but doesn't know it established multiple BGP sessions to other people and routing for it.
 
-Based on my current plan, the software stack of my nodes are looks like this:
+Based on my current plan, the software stack of my nodes looks like this:
 ![Node](https://raw.githubusercontent.com/KusakabeSi/RootlessRouter/main/pics/Node.png)
 
 As you can see, there are no componient are running in the kernel. 
