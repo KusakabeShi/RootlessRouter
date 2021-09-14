@@ -19,4 +19,5 @@ There are some my projects are related to this project:
 
 1. https://github.com/KusakabeSi/BIRD-vpp
 2. https://github.com/KusakabeSi/wireguard-go-vpp
-3. https://github.com/KusakabeSi/EtherGuardVPN
+3. https://github.com/KusakabeSi/EtherGuard-VPN
+4. https://github.com/KusakabeSi/bird-vpp-route-syncer
