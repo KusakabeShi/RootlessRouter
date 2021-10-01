@@ -17,7 +17,13 @@ I will host multiple node to form a cluster, like this
 
 There are some my projects are related to this project:
 
+1. https://github.com/KusakabeSi/EtherGuard-VPN
+1. https://github.com/KusakabeSi/wireguard-go-vpp
+1. https://github.com/KusakabeSi/DN42-AutoPeer-vpp
+1. https://github.com/KusakabeSi/bird-vpp-route-syncer
+1. https://github.com/KusakabeSi/bird-lg-go
+1. https://github.com/KusakabeSi/vpp
 1. https://github.com/KusakabeSi/BIRD-vpp
-2. https://github.com/KusakabeSi/wireguard-go-vpp
-3. https://github.com/KusakabeSi/EtherGuard-VPN
-4. https://github.com/KusakabeSi/bird-vpp-route-syncer
+1. https://github.com/KusakabeSi/RootlessRouterDocker
+1. https://github.com/KusakabeSi/RootlessRouter
+1. https://github.com/KusakabeSi/RRstate
