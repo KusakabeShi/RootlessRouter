@@ -1,3 +1,7 @@
+# Deprecated! 
+
+**Please go to https://github.com/KusakabeSi/RootlessRouter-UML**
+
 # RootlessRouter
 
 This is a WIP project called "Rootless Router". 
